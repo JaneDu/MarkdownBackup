@@ -89,9 +89,9 @@
 #### **表格**
 > Markdown 的表格稍稍麻烦，复杂的表格利用其他制表软件绘制，再保存成图片格式载入也是可以的。注意冒号:的作用是定义左对齐，居中对齐，还是右对齐；更多表格的用法说明请参考[GitHub Flavored Markdown][10]
 
-\| Left-Aligned  | Center Aligned  | Right Aligned|  
+\| Left-Aligned  | Center Aligned  | Right Aligned |  
 \| :------------ |:---------------:| -----:|  
-\| col 3 is      | some wordy text | $1600|  
+\| col 3 is      | some wordy text | $1600 |  
 \| col 2 is      | centered        |   $12 |  
 \| zebra stripes | are neat        |    $1 |
 
@@ -104,10 +104,10 @@
 ----------------
 
 #### **分割线**
-\***
-\****
-\* * * *
-\---
+\***  
+\****  
+\* * * *  
+\---  
 ***
 
 #### **代码框**
