@@ -81,9 +81,9 @@
 -----------------
 
 #### **插入图片**
-\!\[The IT Crowd](./images/it_crowd.png )
+\!\[The IT Crowd](./it_crowd.png )
 
-![The IT Crowd](./images/it_crowd.png )
+![The IT Crowd](./it_crowd.png )
 
 ------------------
 #### **表格**
