@@ -26,12 +26,12 @@
 
 #### **标题**
 
-\# 一级标题
-\## 二级标题
-\### 三级标题
-\#### 四级标题
-\##### 五级标题
-\###### 六级标题
+\# 一级标题  
+\#\# 二级标题  
+\#\#\# 三级标题  
+\#\#\#\# 四级标题  
+\#\#\#\#\# 五级标题  
+\#\#\#\#\#\# 六级标题
 
 # 一级标题
 ## 二级标题
@@ -56,13 +56,13 @@
 
 ------------------
 #### **无序列表**
-\* List 1
-\* List 2
-\* List 3
-或者
-\- List 1
-\- List 2
-\- List 3
+\* List 1  
+\* List 2  
+\* List 3  
+或者  
+\- List 1  
+\- List 2  
+\- List 3  
 * List 1
 * List 2
 * List 3
@@ -89,10 +89,10 @@
 #### **表格**
 > Markdown 的表格稍稍麻烦，复杂的表格利用其他制表软件绘制，再保存成图片格式载入也是可以的。注意冒号:的作用是定义左对齐，居中对齐，还是右对齐；更多表格的用法说明请参考[GitHub Flavored Markdown][10]
 
-\| Left-Aligned  | Center Aligned  | Right Aligned |
-\| :------------ |:---------------:| -----:|
-\| col 3 is      | some wordy text | $1600 |
-\| col 2 is      | centered        |   $12 |
+\| Left-Aligned  | Center Aligned  | Right Aligned|  
+\| :------------ |:---------------:| -----:|  
+\| col 3 is      | some wordy text | $1600|  
+\| col 2 is      | centered        |   $12 |  
 \| zebra stripes | are neat        |    $1 |
 
 | Left-Aligned  | Center Aligned  | Right Aligned |
@@ -102,6 +102,7 @@
 | zebra stripes | are neat        |    $1 |
 
 ----------------
+
 #### **分割线**
 \***
 \****
@@ -112,7 +113,7 @@
 #### **代码框**
 行的开头空4个空格，表示程序代码：
 
-def hello()
+def hello()  
 &emsp;&emsp;print("hello world") 
 
 
